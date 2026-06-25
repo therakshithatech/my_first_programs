@@ -1,0 +1,13 @@
+print(".......STUDENT CAREER PROFILE.......")
+name=input("enter your name:")
+age=int(input("enter your age:"))
+dream_branch=input("enter your dream college branch:")
+dream_company=input("enter your dream company:")
+dream_salary=input("enter your dream salary:")
+print("name:",                   name)
+print("age:",                      age)
+print("dream branch:",     dream_branch)
+print("dream company:", dream_company)
+print("dream salary:",      dream_salary)
+
+print("keep learning and working to your goal.great job!",name)
