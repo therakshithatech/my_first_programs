@@ -1,12 +1,27 @@
 # Hello, I'm Rakshitha 👋
 
-Aspiring Software Engineer | Learning Python | Future CSE Student
+## 👩‍💻 About Me
 
-## Goals
+Aspiring Software Engineer | Future CSE Student
+
+I am currently learning Python and GitHub while preparing for my Computer Science Engineering journey.
+
+## 🌱 Currently Learning
+
+- Python
+- Git & GitHub
+- Problem Solving
+
+## 🎯 Goals
+
 - Learn Python
 - Learn Web Development
 - Build Projects
 - Participate in Hackathons
 - Get Internships
 
-This repository will contain my programming practice and projects. 🚀
+## 📂 Repository
+
+This repository contains my Python practice programs and future projects.
+
+⭐ Thanks for visiting my GitHub profile!
