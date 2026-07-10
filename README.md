@@ -1,6 +1,6 @@
 # Hello, I'm Rakshitha 👋
 
-I am an aspiring Software Engineer and future CSE student.
+Aspiring Software Engineer | Learning Python | Future CSE Student
 
 ## Goals
 - Learn Python
