@@ -14,11 +14,12 @@ I am currently learning Python and GitHub while preparing for my Computer Scienc
 
 ## 🎯 Goals
 
-- Learn Python
-- Learn Web Development
-- Build Projects
+- Master Python
+- Solve DSA problems
+- Build real-world projects
 - Participate in Hackathons
-- Get Internships
+- Get an Internship
+- Become a Software Engineer
 
 ## 📂 Repository
 
